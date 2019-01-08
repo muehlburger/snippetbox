@@ -15,6 +15,8 @@ snippetbox is a sample go web application developed in a book written by [Alexan
 go get github.com/muehlburger/snippetbox
 ```
 
+Install mysql server, add user for application and add sample data.
+
 ## Usage
 
 Clone this repository and run:
