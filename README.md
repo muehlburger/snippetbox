@@ -33,7 +33,7 @@ Open http://localhost:4000
 
 ## License
 
-[GNU GENERAL PUBLIC LICENSE](LICENSE)
+[GNU General Public License v2.0](LICENSE)
 
 [report-card-image]: https://goreportcard.com/badge/github.com/muehlburger/snippetbox
 [report-card-url]: https://goreportcard.com/report/github.com/muehlburger/snippetbox
