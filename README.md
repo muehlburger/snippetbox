@@ -3,11 +3,7 @@
 
 snippetbox is a sample go web application developed in a book written by [Alexander Edwards](https://lets-go.alexedwards.net/).
 
-[Features](#features) | [Installation](#installation) | [Usage](#usage) |
-
-## Features
-
-- 
+[Installation](#installation) | [Usage](#usage)
 
 ## Installation
 
